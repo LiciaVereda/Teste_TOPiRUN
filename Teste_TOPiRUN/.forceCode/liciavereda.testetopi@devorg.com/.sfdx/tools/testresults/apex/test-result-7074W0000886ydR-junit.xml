@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2020-10-11T21:24:26-03:00" hostname="https://na139.salesforce.com" tests="1" failures="1"  errors="0"  time="0.02">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Oct 11, 2020 9:24 PM"/>
+            <property name="testExecutionTime" value="0.02 s"/>
+            <property name="testTotalTime" value="0.02 s"/>
+            <property name="commandTime" value="6.08 s"/>
+            <property name="hostname" value="https://na139.salesforce.com"/>
+            <property name="orgId" value="00D4W000006i8LzUAI"/>
+            <property name="username" value="liciavereda.testetopi@devorg.com"/>
+            <property name="testRunId" value="7074W0000886ydR"/>
+            <property name="userId" value="0054W00000BfbMbQAJ"/>
+        </properties>
+        <testcase name="filterAccountsByCpfTest" classname="AccountFilterTeste" time="0.02">
+            <failure message="System.LimitException: Maximum stack depth reached: 1001"><![CDATA[Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column 1
+Class.AccountFixtureFactory.newAccount: line 19, column]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

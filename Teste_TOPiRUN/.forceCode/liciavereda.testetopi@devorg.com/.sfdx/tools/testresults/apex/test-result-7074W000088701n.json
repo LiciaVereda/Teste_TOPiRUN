@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Oct 11, 2020 9:48 PM",
+        "testExecutionTime": "133 ms",
+        "testTotalTime": "133 ms",
+        "commandTime": "5248 ms",
+        "hostname": "https://na139.salesforce.com",
+        "orgId": "00D4W000006i8LzUAI",
+        "username": "liciavereda.testetopi@devorg.com",
+        "testRunId": "7074W000088701n",
+        "userId": "0054W00000BfbMbQAJ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M4W000003ohZ7UAI"
+            },
+            "Id": "07M4W000003ohZ7UAI",
+            "QueueItemId": "7094W000000dCuoQAE",
+            "StackTrace": "Class.AccountFilterTeste.filterAccountsByCpfTeste: line 67, column 1",
+            "Message": "System.AssertException: Assertion Failed: Same value: 1",
+            "AsyncApexJobId": "7074W000088701nQAA",
+            "MethodName": "filterAccountsByCpfTeste",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p4W00000DqjyDQAR"
+                },
+                "Id": "01p4W00000DqjyDQAR",
+                "Name": "AccountFilterTeste",
+                "NamespacePrefix": null
+            },
+            "RunTime": 133,
+            "FullName": "AccountFilterTeste.filterAccountsByCpfTeste"
+        }
+    ]
+}

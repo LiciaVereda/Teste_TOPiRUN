@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Oct 11, 2020 10:00 PM",
+        "testExecutionTime": "188 ms",
+        "testTotalTime": "188 ms",
+        "commandTime": "12162 ms",
+        "hostname": "https://na139.salesforce.com",
+        "orgId": "00D4W000006i8LzUAI",
+        "username": "liciavereda.testetopi@devorg.com",
+        "testRunId": "7074W00008870rE",
+        "userId": "0054W00000BfbMbQAJ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M4W000003ohZWUAY"
+            },
+            "Id": "07M4W000003ohZWUAY",
+            "QueueItemId": "7094W000000dCvIQAU",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7074W00008870rEQAQ",
+            "MethodName": "filterAccountsByCpfTeste",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p4W00000DqjyDQAR"
+                },
+                "Id": "01p4W00000DqjyDQAR",
+                "Name": "AccountFilterTeste",
+                "NamespacePrefix": null
+            },
+            "RunTime": 188,
+            "FullName": "AccountFilterTeste.filterAccountsByCpfTeste"
+        }
+    ]
+}

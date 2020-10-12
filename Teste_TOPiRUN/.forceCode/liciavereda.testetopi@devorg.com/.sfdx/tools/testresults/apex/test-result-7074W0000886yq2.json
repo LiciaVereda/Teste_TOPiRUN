@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Oct 11, 2020 9:28 PM",
+        "testExecutionTime": "92 ms",
+        "testTotalTime": "92 ms",
+        "commandTime": "5257 ms",
+        "hostname": "https://na139.salesforce.com",
+        "orgId": "00D4W000006i8LzUAI",
+        "username": "liciavereda.testetopi@devorg.com",
+        "testRunId": "7074W0000886yq2",
+        "userId": "0054W00000BfbMbQAJ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M4W000003ohYEUAY"
+            },
+            "Id": "07M4W000003ohYEUAY",
+            "QueueItemId": "7094W000000dCtvQAE",
+            "StackTrace": "Class.AccountFixtureFactory.createAccount: line 46, column 1\nClass.AccountFixtureFactory.createAccount: line 40, column 1\nClass.AccountFilterTeste.filterAccountsByCpfTest: line 46, column 1",
+            "Message": "System.DmlException: Insert failed. First exception on row 0; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Inválido: [Cnpj__c]",
+            "AsyncApexJobId": "7074W0000886yq2QAA",
+            "MethodName": "filterAccountsByCpfTest",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p4W00000DqjyDQAR"
+                },
+                "Id": "01p4W00000DqjyDQAR",
+                "Name": "AccountFilterTeste",
+                "NamespacePrefix": null
+            },
+            "RunTime": 92,
+            "FullName": "AccountFilterTeste.filterAccountsByCpfTest"
+        }
+    ]
+}

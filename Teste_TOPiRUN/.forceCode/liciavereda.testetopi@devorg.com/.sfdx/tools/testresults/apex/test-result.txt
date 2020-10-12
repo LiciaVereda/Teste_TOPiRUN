@@ -1,0 +1,33 @@
+=== Test Reports
+FORMAT  FILE
+──────  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+txt     d:\Programação\Cursos_Extras\Treinamento_TOPI\Teste_TOPiRUN\.sfdx\tools\testresults\apex\test-result.txt
+txt     d:\Programação\Cursos_Extras\Treinamento_TOPI\Teste_TOPiRUN\.sfdx\tools\testresults\apex\test-run-id.txt
+junit   d:\Programação\Cursos_Extras\Treinamento_TOPI\Teste_TOPiRUN\.sfdx\tools\testresults\apex\test-result-7074W00008872Cy-junit.xml
+json    d:\Programação\Cursos_Extras\Treinamento_TOPI\Teste_TOPiRUN\.sfdx\tools\testresults\apex\test-result-7074W00008872Cy.json
+
+=== Test Results
+TEST NAME                                    OUTCOME  MESSAGE  RUNTIME (MS)
+───────────────────────────────────────────  ───────  ───────  ────────────
+AccountFilterTeste.filterAccountsByCpfTeste  Pass              219
+
+=== Test Summary
+NAME                 VALUE
+───────────────────  ─────────────────────────────────
+Outcome              Passed
+Tests Ran            1
+Passing              1
+Failing              0
+Skipped              0
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      Oct 11, 2020 10:15 PM
+Test Execution Time  219 ms
+Test Total Time      219 ms
+Command Time         18930 ms
+Hostname             https://na139.salesforce.com
+Org Id               00D4W000006i8LzUAI
+Username             liciavereda.testetopi@devorg.com
+Test Run Id          7074W00008872Cy
+User Id              0054W00000BfbMbQAJ
+

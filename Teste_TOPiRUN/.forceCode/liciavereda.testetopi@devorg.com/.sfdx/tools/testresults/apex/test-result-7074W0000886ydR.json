@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Oct 11, 2020 9:24 PM",
+        "testExecutionTime": "19 ms",
+        "testTotalTime": "19 ms",
+        "commandTime": "6083 ms",
+        "hostname": "https://na139.salesforce.com",
+        "orgId": "00D4W000006i8LzUAI",
+        "username": "liciavereda.testetopi@devorg.com",
+        "testRunId": "7074W0000886ydR",
+        "userId": "0054W00000BfbMbQAJ"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M4W000003ohY9UAI"
+            },
+            "Id": "07M4W000003ohY9UAI",
+            "QueueItemId": "7094W000000dCtqQAE",
+            "StackTrace": "Class.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column 1\nClass.AccountFixtureFactory.newAccount: line 19, column",
+            "Message": "System.LimitException: Maximum stack depth reached: 1001",
+            "AsyncApexJobId": "7074W0000886ydRQAQ",
+            "MethodName": "filterAccountsByCpfTest",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p4W00000DqjyDQAR"
+                },
+                "Id": "01p4W00000DqjyDQAR",
+                "Name": "AccountFilterTeste",
+                "NamespacePrefix": null
+            },
+            "RunTime": 19,
+            "FullName": "AccountFilterTeste.filterAccountsByCpfTest"
+        }
+    ]
+}
